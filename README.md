@@ -17,3 +17,5 @@
   I USED RUN SQL for code i gave my input and it gave me an output
 
   #OUTPUT#
+
+  ![Image](https://github.com/user-attachments/assets/3b4bb501-5d9c-4521-9802-9421f75913a1)
